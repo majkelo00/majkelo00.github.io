@@ -1,0 +1,62 @@
+﻿body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: linear-gradient(to right, #6a11cb, #2575fc);
+    color: #fff;
+    text-align: center;
+}
+
+.container {
+    text-align: center;
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 800px;
+    width: 90%;
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-size: 3em;
+    animation: fadeIn 2s ease-in-out;
+}
+
+#countdown {
+    display: flex;
+    justify-content: space-around;
+    font-size: 2em;
+}
+
+    #countdown div {
+        margin: 10px;
+    }
+
+    #countdown span {
+        font-size: 2.5em;
+        font-weight: bold;
+    }
+
+/* Stylowanie dla urządzeń mobilnych */
+@media (max-width: 600px) {
+    h1 {
+        font-size: 2em; /* Zmniejszamy rozmiar nagłówka na mniejszych ekranach */
+    }
+
+    #countdown {
+        flex-direction: column; /* Ustawiamy kolumnę zamiast wiersza, aby elementy były jeden pod drugim */
+        font-size: 1.5em; /* Zmniejszamy rozmiar czcionki */
+    }
+
+        #countdown div {
+            margin: 5px 0; /* Dostosowujemy marginesy */
+        }
+
+        #countdown span {
+            font-size: 2em; /* Zmniejszamy rozmiar licznika */
+        }
+}

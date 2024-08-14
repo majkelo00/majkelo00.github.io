@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\nauka_wlasna\\WebApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4973F716-7EF2-4D3B-BCC4-164A13941203}|WebApp2\\WebApp2.csproj|d:\\nauka_wlasna\\webapp2\\webapp2\\wwwroot\\js\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4973F716-7EF2-4D3B-BCC4-164A13941203}|WebApp2\\WebApp2.csproj|solutionrelative:webapp2\\wwwroot\\js\\javascript.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4973F716-7EF2-4D3B-BCC4-164A13941203}|WebApp2\\WebApp2.csproj|d:\\nauka_wlasna\\webapp2\\webapp2\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4973F716-7EF2-4D3B-BCC4-164A13941203}|WebApp2\\WebApp2.csproj|solutionrelative:webapp2\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4973F716-7EF2-4D3B-BCC4-164A13941203}|WebApp2\\WebApp2.csproj|d:\\nauka_wlasna\\webapp2\\webapp2\\wwwroot\\css\\w3b2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4973F716-7EF2-4D3B-BCC4-164A13941203}|WebApp2\\WebApp2.csproj|solutionrelative:webapp2\\wwwroot\\css\\w3b2.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4973F716-7EF2-4D3B-BCC4-164A13941203}|WebApp2\\WebApp2.csproj|d:\\nauka_wlasna\\webapp2\\webapp2\\wwwroot\\w3b2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4973F716-7EF2-4D3B-BCC4-164A13941203}|WebApp2\\WebApp2.csproj|solutionrelative:webapp2\\wwwroot\\w3b2.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4973F716-7EF2-4D3B-BCC4-164A13941203}|WebApp2\\WebApp2.csproj|d:\\nauka_wlasna\\webapp2\\webapp2\\wwwroot\\js\\w3b2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{4973F716-7EF2-4D3B-BCC4-164A13941203}|WebApp2\\WebApp2.csproj|solutionrelative:webapp2\\wwwroot\\js\\w3b2.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\nauka_wlasna\\WebApp2\\WebApp2\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "WebApp2\\wwwroot\\index.html",
+              "ToolTip": "D:\\nauka_wlasna\\WebApp2\\WebApp2\\wwwroot\\index.html",
+              "RelativeToolTip": "WebApp2\\wwwroot\\index.html",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-14T12:55:04.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JavaScript.js",
+              "DocumentMoniker": "D:\\nauka_wlasna\\WebApp2\\WebApp2\\wwwroot\\js\\JavaScript.js",
+              "RelativeDocumentMoniker": "WebApp2\\wwwroot\\js\\JavaScript.js",
+              "ToolTip": "D:\\nauka_wlasna\\WebApp2\\WebApp2\\wwwroot\\js\\JavaScript.js",
+              "RelativeToolTip": "WebApp2\\wwwroot\\js\\JavaScript.js",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAswFAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-12T11:41:44.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "w3b2.js",
+              "DocumentMoniker": "D:\\nauka_wlasna\\WebApp2\\WebApp2\\wwwroot\\js\\w3b2.js",
+              "RelativeDocumentMoniker": "WebApp2\\wwwroot\\js\\w3b2.js",
+              "ToolTip": "D:\\nauka_wlasna\\WebApp2\\WebApp2\\wwwroot\\js\\w3b2.js",
+              "RelativeToolTip": "WebApp2\\wwwroot\\js\\w3b2.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-12T11:19:06.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "w3b2.css",
+              "DocumentMoniker": "D:\\nauka_wlasna\\WebApp2\\WebApp2\\wwwroot\\css\\w3b2.css",
+              "RelativeDocumentMoniker": "WebApp2\\wwwroot\\css\\w3b2.css",
+              "ToolTip": "D:\\nauka_wlasna\\WebApp2\\WebApp2\\wwwroot\\css\\w3b2.css",
+              "RelativeToolTip": "WebApp2\\wwwroot\\css\\w3b2.css",
+              "ViewState": "AQIAABQAAAAAAAAAAAAkwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-12T11:16:07.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "w3b2.html",
+              "DocumentMoniker": "D:\\nauka_wlasna\\WebApp2\\WebApp2\\wwwroot\\w3b2.html",
+              "RelativeDocumentMoniker": "WebApp2\\wwwroot\\w3b2.html",
+              "ToolTip": "D:\\nauka_wlasna\\WebApp2\\WebApp2\\wwwroot\\w3b2.html",
+              "RelativeToolTip": "WebApp2\\wwwroot\\w3b2.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-08-12T11:13:09.528Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\nauka_wlasna\\WebApp2\\WebApp2\\wwwroot\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "D:\\nauka_wlasna\\WebApp2\\WebApp2\\wwwroot\\css\\w3b2.css",
+      "PackagePath": "staticwebassets\\css\\w3b2.css"
+    },
+    {
+      "Id": "D:\\nauka_wlasna\\WebApp2\\WebApp2\\wwwroot\\images\\photo1.png",
+      "PackagePath": "staticwebassets\\images\\photo1.png"
+    },
+    {
+      "Id": "D:\\nauka_wlasna\\WebApp2\\WebApp2\\wwwroot\\images\\photo2.png",
+      "PackagePath": "staticwebassets\\images\\photo2.png"
+    },
+    {
+      "Id": "D:\\nauka_wlasna\\WebApp2\\WebApp2\\wwwroot\\images\\photo3.jpg",
+      "PackagePath": "staticwebassets\\images\\photo3.jpg"
+    },
+    {
+      "Id": "D:\\nauka_wlasna\\WebApp2\\WebApp2\\wwwroot\\images\\photo4.jpg",
+      "PackagePath": "staticwebassets\\images\\photo4.jpg"
+    },
+    {
+      "Id": "D:\\nauka_wlasna\\WebApp2\\WebApp2\\wwwroot\\images\\photo5.jpg",
+      "PackagePath": "staticwebassets\\images\\photo5.jpg"
+    },
+    {
+      "Id": "D:\\nauka_wlasna\\WebApp2\\WebApp2\\wwwroot\\images\\photo6.jpg",
+      "PackagePath": "staticwebassets\\images\\photo6.jpg"
+    },
+    {
+      "Id": "D:\\nauka_wlasna\\WebApp2\\WebApp2\\wwwroot\\images\\photo7.jpg",
+      "PackagePath": "staticwebassets\\images\\photo7.jpg"
+    },
+    {
+      "Id": "D:\\nauka_wlasna\\WebApp2\\WebApp2\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\nauka_wlasna\\WebApp2\\WebApp2\\wwwroot\\js\\JavaScript.js",
+      "PackagePath": "staticwebassets\\js\\JavaScript.js"
+    },
+    {
+      "Id": "D:\\nauka_wlasna\\WebApp2\\WebApp2\\wwwroot\\js\\w3b2.js",
+      "PackagePath": "staticwebassets\\js\\w3b2.js"
+    },
+    {
+      "Id": "D:\\nauka_wlasna\\WebApp2\\WebApp2\\wwwroot\\videos\\film.mp4",
+      "PackagePath": "staticwebassets\\videos\\film.mp4"
+    },
+    {
+      "Id": "D:\\nauka_wlasna\\WebApp2\\WebApp2\\wwwroot\\w3b2.html",
+      "PackagePath": "staticwebassets\\w3b2.html"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApp2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApp2.props",
+      "PackagePath": "build\\WebApp2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApp2.props",
+      "PackagePath": "buildMultiTargeting\\WebApp2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApp2.props",
+      "PackagePath": "buildTransitive\\WebApp2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
